@@ -1,0 +1,15 @@
+{
+    "created": "2024-03-05T03:10:31.419737",
+    "description": "GeoJSON",
+    "format": "GeoJSON",
+    "download_url": "https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/NGA/waterways/points/hotosm_nga_waterways_points_geojson.zip",
+    "id": "daab4cf2-0688-4d86-ab5e-bbac2792dacf",
+    "last_modified": "2025-08-02T01:05:37.824046",
+    "metadata_modified": "2025-08-02T01:05:44.746168",
+    "microdata": false,
+    "dataset_id": "a74dccea-f583-4920-bbe4-45213ed3acbe",
+    "resource_type": "api",
+    "name": "hotosm_nga_waterways_points_geojson.zip",
+    "mimetype": null,
+    "size": "5.8K"
+}
