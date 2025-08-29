@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "name": "Wuse_Market_Shops",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "shop_name": "ADAMSAN GLOBAL SERVICE LIMITED",
+        "type_of_business": "Electronics",
+        "location": "Wuse Market, Abuja",
+        "address": "Block 36 shop 394 Wuse Market Rd Wuse Abuja 904101 Federal Capital Territory",
+        "source_of_power": "Generator & AEDC",
+        "gen_daily_usage_hrs": "5hrs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.466896, 9.069513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shop_name": "Mega complexion",
+        "type_of_business": "Cosmetics Shop",
+        "location": "Wuse Market, Abuja",
+        "address": "Temple line block 3 shop 34 old extension Wuse modern market Abuja",
+        "source_of_power": "Generator",
+        "gen_daily_usage_hrs": "10hrs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.465638, 9.069248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shop_name": "Ayo Asanlaye Fashion Designers",
+        "type_of_business": "Textile",
+        "location": "Wuse Market, Abuja",
+        "address": "Block A9 shop 10 Wuse Modern Market Wuse Abuja",
+        "source_of_power": "Generator",
+        "gen_daily_usage_hrs": "10hrs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.466609, 9.069216]
+      }
+    }
+  ]
+}
+
+
+
+
